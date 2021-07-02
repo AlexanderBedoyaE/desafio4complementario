@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: lightgray;
+}
+
+h1{
+    margin-top: 15%;
+    text-align: center;
+}
+
+.subtitulo{
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+
+input{
+    margin-top: 20px;
+    width: 10vw;
+    height: 5vh;
+}
+
+.enviar{
+    margin-left: 44%;
+}
